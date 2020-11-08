@@ -3,4 +3,3 @@ Following are the requirements for this project:
 -->Django version 3.1.1
 -->Chatterbot version 1.0.2
 -->Bootstrap version 4.5.2
--->chatterbot-corpus version- 1.2.0
